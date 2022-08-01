@@ -1,3 +1,3 @@
 # DataWranglingPractice
 
-### Practice manipulating columns in R.
+### Practice manipulating columns and rows in R.
